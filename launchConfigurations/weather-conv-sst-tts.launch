@@ -1,0 +1,16 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.ng.bluemix.net",
+      "Org": "aazraq@eg.ibm.com",
+      "Space": "Conversation"
+    },
+    "Name": "weather-conv-sst-tts",
+    "Instrumentation": {
+      "domain": "aazraqegibmcom-ibm-redbooks.apic.mybluemix.net"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
